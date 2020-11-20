@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["react", "react-hooks", "derived state", "hooks"],
+  "author": "Tobi Oyeleye",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.12.3",
