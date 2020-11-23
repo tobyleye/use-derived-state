@@ -1,12 +1,17 @@
 {
   "name": "use-derived-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "build": "webpack"
   },
-  "keywords": ["react", "react-hooks", "derived state", "hooks"],
+  "keywords": [
+    "react",
+    "react-hooks",
+    "derived state",
+    "hooks"
+  ],
   "author": "Tobi Oyeleye",
   "license": "ISC",
   "peerDependencies": {
