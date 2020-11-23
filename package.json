@@ -4,12 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --mode production"
+    "build": "webpack"
   },
   "keywords": ["react", "react-hooks", "derived state", "hooks"],
   "author": "Tobi Oyeleye",
   "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.1"
+  },
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/preset-env": "^7.12.1",

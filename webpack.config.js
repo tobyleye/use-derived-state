@@ -5,6 +5,7 @@ module.exports = {
   output: {
     filename: "index.js",
     path: path.resolve("lib"),
+    libraryTarget: "commonjs2",
   },
   module: {
     rules: [
@@ -15,4 +16,5 @@ module.exports = {
       },
     ],
   },
+  externals: ["react"],
 };
