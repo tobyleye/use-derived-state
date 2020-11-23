@@ -2,7 +2,7 @@
   "name": "use-derived-state",
   "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "build": "webpack"
   },
